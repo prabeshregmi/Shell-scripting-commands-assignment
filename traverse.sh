@@ -22,3 +22,4 @@ if [ -z "$1" ]; then
 else
   traverse "$1" 0
 fi
+
